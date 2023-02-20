@@ -9,4 +9,5 @@
     interesting and am always willing to know more about it which are always great for small talks. Design are what fascinates me the most and
     I always want a element of it in my life as for my internship as a UI/UX Designer. 
     
-@ 🫱🏻‍🫲🏻 I am sure you read me by just reading the readme file of my github so you can contact me @📧 rajpurohitgovind942@gmail.com
+@ 🫱🏻‍🫲🏻 I am sure you read me by just reading the readme file of my github so you can contact me @📧 rajpurohitgovind942@gmail.com or follow me on 
+    LinkedIn at https://www.linkedin.com/in/govind-singh-rajpurohit-gopu
