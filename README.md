@@ -15,7 +15,7 @@
 🫱🏻‍🫲🏻 Thank you for taking the time to read my GitHub profile. If you would like to get in touch or discuss anything related to DevOps, feel free to reach out to me:
 
 📧 Email: rajpurohitgovind942@gmail.com
-
+🌐 LinkedIn: [Govind Singh Rajpurohit](https://www.linkedin.com/in/govindrajpurohit/)
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="govindrajpurohit" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/govindrajpurohit?trk=profile-badge">GOVIND SINGH RAJPUROHIT</a></div>
 
 ## Expertise
