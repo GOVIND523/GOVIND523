@@ -1,7 +1,5 @@
 # Govind Singh Rajpurohit
 
-![Profile Picture](profile_picture.jpg)
-
 🙋‍♂️ Hello there! I am Govind, a computer engineer with a keen interest in DevOps and its impact on software development. I enjoy exploring the intersection of technology and operations to create efficient and scalable systems. 👨‍💻
 
 ## Academic Journey
