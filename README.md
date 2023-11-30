@@ -21,5 +21,4 @@
 
 - Final Year BE Computer Engineering Student
 - DevOps Enthusiast: Proficient in implementing DevOps principles, tools, and practices.
-- Freelance Web Developer & Designer: Experienced in building web applications with a focus on user experience.
 - Versed in Version Control: Skilled in utilizing version control systems for collaborative software development.
